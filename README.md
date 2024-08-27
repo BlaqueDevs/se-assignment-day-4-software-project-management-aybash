@@ -9,7 +9,7 @@ Answer: it manages cost annd prevents cost overrun.To prevent budget overruns, i
 2. **Contingency Planning:** Allocate a contingency budget for unforeseen expenses.
 3. **Regular Monitoring:** Continuously track expenses against the budget using project management tools.
 4. **Scope Management:** Strictly control scope changes to prevent unplanned costs.
-5. **Vendor Management:** Negotiate fixed-price contracts with vendors to avoid cost fluctuations.
+5. **Vendor Management:** Negotiate fixed-price contracts with vendors to avoid cost fluctuations. 
 6. **Efficient Resource Allocation:** Optimize resource use and avoid overallocation.
 7. **Stakeholder Communication:** Maintain clear communication with stakeholders about budget constraints and project progress.
    
